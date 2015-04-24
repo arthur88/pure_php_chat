@@ -1,0 +1,3 @@
+This is simple pure PHP chat writed in PHP/SQL/Jquery language. 
+All mesages saved in DB. 
+Messages are saved via Jquery POST method. When saving messages also saving userID and timestamp.
